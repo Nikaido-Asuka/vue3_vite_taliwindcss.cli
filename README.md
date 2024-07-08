@@ -4,5 +4,5 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
 
-<p style=" font-weight="bold"; font-size="20px" "></p>
+<p style=" font-weight="bold"; font-size="20px" ">首页预览图</p>
 <img src="https://pic.imgdb.cn/item/668b54bed9c307b7e939e8d3.png" alt="k shake it"/>
